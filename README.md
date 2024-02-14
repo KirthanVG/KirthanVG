@@ -23,6 +23,7 @@ Feel free to explore my projects and reach out if you share similar interests or
 ![Badge](https://img.shields.io/badge/🍙Manga-F06292)
 ![Badge](https://img.shields.io/badge/📖Reading-FF6900)
 ![Badge](https://img.shields.io/badge/🤖Robotics-00027F)
+<be>
 
 ## 🛠 Skills
 <img align="left" alt="Java" width="40px" style="padding-rigt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
