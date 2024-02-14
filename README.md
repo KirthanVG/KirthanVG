@@ -1,6 +1,9 @@
 
+
 # Hello, World! 👋
-Welcome to my GitHub profile! I'm KirthanVG, currently holding a diploma in Computer Engineering and an undergraduate student in Computer Science.
+**`CS Undergrad`**
+
+Welcome to my GitHub profile! I'm **KirthanVG**, currently holding a diploma in Computer Engineering and an undergraduate student in Computer Science.
 
 ## 🚀 About Me
 Welcome to my GitHub profile! I'm Kirthan, a perpetual learner with an insatiable curiosity for knowledge. Whether it's delving into business strategies or exploring the depths of history, I'm always eager to expand my horizons. When I'm not absorbed in learning, you'll likely find me with my face in a novel, training my fitness and martial arts, or immersing myself in the world of coding.
@@ -11,31 +14,25 @@ Feel free to explore my projects and reach out if you share similar interests or
 
 
 ## 🛠 Skills
+<img align="left" alt="Java" width="40px" style="padding-rigt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-rigt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-rigt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Java" width="40px" style="padding-rigt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-rigt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-rigt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-rigt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-rigt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-rigt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-rigt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-rigt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<br>
+<br>
 
-### Programming Languages:
-- Java
-- Python
-- C
-- C#
 
-### Web Development:
-- HTML, CSS, JavaScript
-- Node.js
-
-### Machine Learning & Computer Vision:
-- TensorFlow
-- OpenCV
-- Keras
-
-### Databases:
-- SQL
-
-### Operating Systems:
-- Linux
-- Windows
-
-### Other:
-- .NET Framework
+## 📊 Stats
+[![Kirthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirthanvg&showicons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎉Closing
 I intend to showcase my learning journey on here for all to see. Hopefully to help other students just like myself. Feel free to shoot me a message if you have any questions!
+
+---
