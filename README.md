@@ -40,10 +40,6 @@ Feel free to explore my projects and reach out if you share similar interests or
 <img align="left" alt="Java" width="40px" style="padding-rigt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 <br><br><br>
 
-## 📊 Stats
-[![Kirthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirthanvg&showicons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
 ## 🎉Closing
 I intend to showcase my learning journey on here for all to see. Hopefully helping other students just like myself. Feel free to shoot me a message if you have any questions!
 
